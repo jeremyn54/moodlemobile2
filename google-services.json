@@ -1,42 +1,232 @@
 {
   "project_info": {
-    "project_number": "694767596569",
-    "firebase_url": "https://moodlemobile-push.firebaseio.com",
-    "project_id": "moodlemobile-push",
-    "storage_bucket": "moodlemobile-push.appspot.com"
+    "project_number": "490770108793",
+    "firebase_url": "https://cordova-mobile-app.firebaseio.com",
+    "project_id": "cordova-mobile-app",
+    "storage_bucket": "cordova-mobile-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:694767596569:android:a4cdad4d168c9d1a",
+        "mobilesdk_app_id": "1:490770108793:android:b95b341d629dea4f",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.moanatv.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "694767596569-icveqqa2n56oh44l6ev1dr2oh67nh8il.apps.googleusercontent.com",
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCb2zogu0P_aZ2LNgdwzshWExITPKTXJyk"
-        },
-        {
-          "current_key": "AIzaSyDRT1HwT0gSsTty0whOVtoNKAh8SPrJXLE"
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490770108793:android:32227f04b46522da",
+        "android_client_info": {
+          "package_name": "com.onlineradiotraining.moodlemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490770108793:android:d414792ebcf75797",
+        "android_client_info": {
+          "package_name": "nz.co.sctv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490770108793-lo29gkn5c7mthcprgk002hnt5k4854oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nz.co.sctv.app",
+            "certificate_hash": "2fc6e21745762080ca37b792c63327cb62138698"
+          }
         },
-        "ads_service": {
-          "status": 2
+        {
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490770108793:android:6c4762ccaceb6ca3",
+        "android_client_info": {
+          "package_name": "tv.marinehub.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490770108793:android:3e69c03438cb060e",
+        "android_client_info": {
+          "package_name": "tv.nztravel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490770108793:android:badcdd8f2cae915f",
+        "android_client_info": {
+          "package_name": "tv.onetvnetwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrFrfLChIF62Tgr5_B4nHdz0tGb_NaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490770108793-0tgck651m4k4i6upngap2fek6ddibhph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490770108793-444hrru9t94srdpt2po4i75scuad066b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiotraining.class.moodlemobile"
+              }
+            }
+          ]
         }
       }
     }
